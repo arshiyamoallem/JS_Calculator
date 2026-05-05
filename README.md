@@ -1,4 +1,3 @@
 # JS_Calculator
-Practicing JS by making a calculator
+Practicing JS by making a calculator through a website
 
-Going from terminal to web
